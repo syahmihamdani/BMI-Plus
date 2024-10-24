@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BMI+</string>
+    <string name="welcomeMessage">Welcome to the App! Please click the button below</string>
+    <string name="startButton">Start</string>
+    <string name="saveButton">Save</string>
+    <string name="inputMessage">Input your information</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
